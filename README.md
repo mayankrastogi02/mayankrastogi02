@@ -1,7 +1,7 @@
 <h2>Hi there, I'm Mayank Rastogi 👋</h2>
 
 - 👀 I’m interested in Software Engineering and Artificial Intelligence
-- 🌱 I’m currently studying in an Engineering program
+- 🌱 I’m currently studying Computer Engineering at UBC, Canada
 - 💞️ I’m looking to collaborate on software designs and mobile applications
 - 📫 How to reach me: LinkedIn (https://www.linkedin.com/in/mayank-rastogi-6044931ab/
 <!-- - 📫 How to reach me: LinkedIn (https://www.linkedin.com/in/mayank-rastogi-6044931ab/) -->
