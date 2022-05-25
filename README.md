@@ -2,7 +2,8 @@
 
 - 👀 I’m interested in Software Engineering and Artificial Intelligence
 - 🌱 I’m currently studying Computer Engineering at UBC, Canada
-- 💞️ I’m looking to collaborate on software designs and mobile applications
+- 💞️ I’m looking to collaborate on Full Stack Web and Mobile applications
+- 🌐 Learn more about me: https://mayankrastogi02.github.io
 - 📫 How to reach me: LinkedIn (https://www.linkedin.com/in/mayank-rastogi-6044931ab/
 <!-- - 📫 How to reach me: LinkedIn (https://www.linkedin.com/in/mayank-rastogi-6044931ab/) -->
 
