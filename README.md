@@ -22,13 +22,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br>
-<h3>My Github Stats<h3>
-
-<a href="https://github.com/mayankrastogi02/mayankrastogi02">  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankrastogi02&hide=Jupyter Notebook&title_color=ffffff&text_color=c9cacc&icon_color=eec643&bg_color=1d1f21&layout=compact&langs_count=7" alt="Mayank's GitHub Stats" />
-</a>
-<br>
-<br>
+<h3>My Github Stats:<h3>
 <a href="https://github.com/mayankrastogi02/mayankrastogi02">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mayankrastogi02&hide-title=true&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=eec643&bg_color=1d1f21&" alt="Mayank's GitHub Stats" />
 </a>
