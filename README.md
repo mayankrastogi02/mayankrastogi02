@@ -20,13 +20,13 @@
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
+<!--
 <br>
 <h3>My Github Stats:<h3>
 <a href="https://github.com/mayankrastogi02/mayankrastogi02">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mayankrastogi02&hide-title=true&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=eec643&bg_color=1d1f21&" alt="Mayank's GitHub Stats" />
 </a>
-
+-->
 <!---
 mayankrastogi02/mayankrastogi02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
